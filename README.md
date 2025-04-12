@@ -22,8 +22,14 @@
 - **Server**: XAMPP (local environment)
 
 
-## 🔜🔜🔜
+## 🛠 Upcoming
 
-- 📧 Email Verification System
-- 📱 Full mobile responsiveness
-- 📲 Beta App
+A beta version of the application is planned to be released soon, featuring:
+
+Account sync across devices
+
+Full mobile-friendly UI/UX
+
+Advanced challenge tracking and progress analytics
+
+Public season leaderboard
