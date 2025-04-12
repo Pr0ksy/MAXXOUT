@@ -2,9 +2,9 @@
 
 **MAXXOUT** is a gamified fitness app that motivates users to train, complete challenges, and earn real rewards! 🎯
 
-<div align="center">
+<p style="align: center;">
   ![Slika prikaz](https://i.imgur.com/wV76Ke8.png)
-</div>
+</p>
 
 ## 🚀 Features
 
