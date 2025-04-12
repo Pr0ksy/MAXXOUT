@@ -1,5 +1,5 @@
 # 💪 MAXXOUT Website
-![MAXXOUT Preview](https://imgur.com/a/N9bnCX4)
+![MAXXOUT Preview](https://imgur.com/wV76Ke8)
 **MAXXOUT** is a gamified fitness app that motivates users to train, complete challenges, and earn real rewards! 🎯
 
 
