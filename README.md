@@ -3,9 +3,6 @@
 **MAXXOUT** is a gamified fitness web application that motivates users to train, complete challenges, and earn real rewards! 🎯
 
 
-
----
-
 ## 🚀 Features
 
 - 🎮 XP & Challenges System
@@ -16,7 +13,6 @@
 - 🛡️ Premium account system
 - 🔐 Login / Register with PHP backend
 
----
 
 ## ⚙️ Tech Stack
 
@@ -25,4 +21,4 @@
 - **Database**: MySQL
 - **Server**: XAMPP (local environment)
 
----
+
