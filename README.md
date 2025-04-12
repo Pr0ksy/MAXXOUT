@@ -22,3 +22,8 @@
 - **Server**: XAMPP (local environment)
 
 
+## 🔜🔜🔜
+
+- 📧 Email Verification System
+- 📱 Full mobile responsiveness
+- 📲 Beta App
