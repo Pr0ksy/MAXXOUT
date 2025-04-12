@@ -24,12 +24,20 @@
 
 ## 🛠 Upcoming
 
-A beta version of the application is planned to be released soon, featuring:
+- A beta version of the application is planned to be released soon, featuring:
 
-Account sync across devices
+- Account sync across devices
 
-Full mobile-friendly UI/UX
+- Full mobile-friendly UI/UX
 
-Advanced challenge tracking and progress analytics
+- Advanced challenge tracking and progress analytics
 
-Public season leaderboard
+- Public season leaderboard
+
+
+## 📫 Contact
+
+For suggestions, bug reports, or collaboration:
+
+- 📧 proksy.design@gmail.com
+- 🔗 github.com/pr0ksy
