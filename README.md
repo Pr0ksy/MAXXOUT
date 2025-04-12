@@ -6,7 +6,6 @@
   ![Slika prikaz](https://i.imgur.com/wV76Ke8.png)
 </div>
 
-Tekst posle slike.
 ## 🚀 Features
 
 - 🎮 XP & Challenges System
