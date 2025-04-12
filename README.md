@@ -1,6 +1,6 @@
-# 💪 MAXXOUT 
+# 💪 MAXXOUT Website
 
-**MAXXOUT** is a gamified fitness web application that motivates users to train, complete challenges, and earn real rewards! 🎯
+**MAXXOUT** is a gamified fitness app that motivates users to train, complete challenges, and earn real rewards! 🎯
 
 
 ## 🚀 Features
