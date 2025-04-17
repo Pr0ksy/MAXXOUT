@@ -43,11 +43,5 @@
 For suggestions, bug reports, or collaboration:
 
 - 📧 proksy.design@gmail.com
-- 🔗 github.com/pr0ksy
-
-## 👨‍💻 Author
-
-- [@prodanicc](https://www.instagram.com/prodanicc)
-
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
