@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #000000;
+  background: linear-gradient(to right, #111, #222);
+}
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: #f4f4f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+  
+.login-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+  
+.login-container h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333;
+}
+
+.login-container form img {
+  width: 240px; 
+  height: auto; 
+  display: block;
+  margin: 0 auto 20px; 
+}
+
+.login-container input {
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+  
+.login-container input:focus {
+  border-color: #4CAF50;
+  outline: none;
+}
+  
+.login-container button {
+  padding: 14px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+  
+.login-container button:hover {
+  background-color: #51da55;
+}
+  
+.register-link {
+  font-size: 14px;
+  color: #555;
+}
+  
+.register-link a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+  
+.register-link a:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  color: #fff;
+  background-color: #d9534f;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: bold;
+}
