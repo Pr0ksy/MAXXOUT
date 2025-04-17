@@ -11,7 +11,6 @@ if (isset($_GET['code'])) {
 
     if ($result->num_rows == 1) {
         $user = $result->fetch_assoc();
-        // Fallbacks in case some fields are not set
         $user['challenges_completed'] = $user['challenges_completed'] ?? 0;
         $user['is_premium'] = $user['is_premium'] ?? 0;
         $user['level'] = $user['level'] ?? 0;
